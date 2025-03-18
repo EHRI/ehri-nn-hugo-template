@@ -1,5 +1,5 @@
 ---
-title: Training & Fellowships
+title: "Training & Fellowships"
 ---
 
 This is some **markdown** content with a [link]().

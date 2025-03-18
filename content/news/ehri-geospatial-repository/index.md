@@ -1,8 +1,8 @@
 ---
-title: EHRI Launches its Geospatial Repository
+title: "EHRI Launches its Geospatial Repository"
 date: 2023-06-19
 image: ehri-geospatial-repository.png
-linkTitle: EHRI Geospatial Repository
+linkTitle: "EHRI Geospatial Repository"
 ---
 
 {{< intro >}}

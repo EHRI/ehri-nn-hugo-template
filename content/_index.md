@@ -1,7 +1,7 @@
 ---
-title: Creating a UK National Holocaust Research Infrastructure
-description: Welcome to the UK Holocaust Research Infrastructure
-linkTitle: Home
+title: "Creating a UK National Holocaust Research Infrastructure"
+description: "Welcome to the UK Holocaust Research Infrastructure"
+linkTitle: "Home"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 - id: pistol
-  name: Welsh Dr. Rachel Pistol
+  name: "Welsh Dr. Rachel Pistol"
   email: feedback@ehri-uk.org
   image: pistol.webp
   about: >
@@ -9,7 +9,7 @@
   contact: true
 
 - id: schmidt
-  name: Dr. Christine Schmidt
+  name: "Dr. Christine Schmidt"
   email: feedback@ehri-uk.org
   image: schmidt.webp
   about: |
