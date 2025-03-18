@@ -1,7 +1,7 @@
 ---
 
 - id: whl
-  title: The Wiener Holocaust Library
+  title: "The Wiener Holocaust Library"
   url: https://wienerholocaustlibrary.org/
   image: wiener-logo.svg
   content: |

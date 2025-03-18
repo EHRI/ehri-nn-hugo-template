@@ -1,5 +1,5 @@
 ---
-title: About EHRI-UK
+title: "About EHRI-UK"
 type: about
 ---
 

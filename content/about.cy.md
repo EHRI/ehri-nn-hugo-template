@@ -1,5 +1,5 @@
 ---
-title: Am EHRI-UK
+title: "Am EHRI-UK"
 layout: about
 type: about
 ---

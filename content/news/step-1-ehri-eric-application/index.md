@@ -1,6 +1,6 @@
 ---
-title: Step 1 Application to Establish EHRI as an ERIC Submitted to the EU
-linkTitle: Step 1 EHRI-ERIC Application
+title: "Step 1 Application to Establish EHRI as an ERIC Submitted to the EU"
+linkTitle: "Step 1 EHRI-ERIC Application"
 date: 2023-07-13
 image: EHRI-services-infrastructure-v01.jpg
 summary: |
