@@ -38,7 +38,7 @@ params:
 
     # `image` is a reference to an image in the `static/` folder
     # that will be used to generate previews for social media sites.
-    image: images/ehri-logo.png
+    image: images/ehri-logo-large.png
 
     # `description` should be a short summary of the site.
     description: >-
