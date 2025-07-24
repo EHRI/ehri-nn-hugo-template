@@ -31,6 +31,20 @@ params:
       logo: 'eu-logo.svg'
       url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
 
+  # Site metadata for social media cards and search engines.
+  meta:
+    # `title` is full the name of the site.
+    title: "EHRI-UK | The UK National Holocaust Research Infrastructure"
+
+    # `image` is a reference to an image in the `static/` folder
+    # that will be used to generate previews for social media sites.
+    image: images/ehri-logo.png
+
+    # `description` should be a short summary of the site.
+    description: >-
+      EHRI-UK is the UK national node of the European Holocaust Research Infrastructure (EHRI),
+      a European Union funded project which is a permanent pan-European organisation.
+
 markup:
   # Configure syntax highlighting for the examples on the `training` page
   highlight:
