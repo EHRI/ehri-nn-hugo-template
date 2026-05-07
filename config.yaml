@@ -13,6 +13,12 @@ params:
   linkedinUrl: 'https://www.linkedin.com/company/ehri-european-holocaust-research-infrastructure'
   blueskyUrl: 'https://bsky.app/profile/ehri-project.eu'
 
+  # reference an image here (`images/example.svg`) to replace the header logo
+  headerLogo: # -
+
+  # reference an image here (`images/example.svg`) to replace the footer logo
+  footerLogo: # -
+
   # `contactName` and `contactEmail` are used to populate the contact page.
   contactName: EHRI UK
   contactEmail: feedback@ehri-uk.org
