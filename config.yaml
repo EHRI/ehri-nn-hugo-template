@@ -111,8 +111,7 @@ menu:
       weight: 40
 
 
-# Language overrides for menu config. TODO: figure out
-# how not to duplicate things in e.g. the services menu
+# Language overrides for menu config.
 languages:
   en:
     title: United Kingdom
